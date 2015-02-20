@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>JAMES FARMER || @_GLOCKS</title>
+	<link href="http://jpfarmer.com/atom.xml" rel="self"/>
+	<link href="http://jpfarmer.com"/>
+	<updated>2015-02-20T08:10:48.165Z</updated>
+	<id>http://jpfarmer.com</id>
+	<author>
+		<name>James Farmer</name>
+		<email>JFarmer54@gmail.com</email>
+	</author>
+
+	
+</feed>
